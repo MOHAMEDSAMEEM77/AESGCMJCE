@@ -44,11 +44,23 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.groww.tink.aesgcmjce.AesgcmjceApplication">
     <configuration name="AesgcmjceApplication" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="liberica-11" />
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="AesgcmjceApplication.java" />
+      <option name="MAIN_CLASS_NAME" value="com.groww.tink.aesgcmjce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.groww.tink.aesgcmjce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.groww.tink.aesgcmjce.AesgcmjceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.groww.tink.aesgcmjce.AesgcmjceApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.groww.tink.aesgcmjce.*" />
@@ -72,6 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AesgcmjceApplication" />
+      <item itemvalue="Application.com.groww.tink.aesgcmjce.AesgcmjceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.groww.tink.aesgcmjce.AesgcmjceApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663067726763</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updates">
+      <created>1663068012768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663068012768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
